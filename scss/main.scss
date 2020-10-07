@@ -1,6 +1,7 @@
 $primary-color: green;
+$secondary-color: blue;
 
 body {
-    background: $primary-color;
+    background: var(--$secondary-color);
     color: #fff;
 }
