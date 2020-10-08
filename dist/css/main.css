@@ -1,3 +1,9 @@
 body {
-  background: var(--blue);
-  color: #fff; }
+  background: #532610;
+  color: #fff;
+  text-align: center;
+  font-family: sans-serif; }
+
+.coffee {
+  width: 25%;
+  height: 25%; }

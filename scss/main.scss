@@ -2,6 +2,13 @@ $primary-color: green;
 $secondary-color: blue;
 
 body {
-    background: var(--$secondary-color);
+    background: rgb(83, 38, 16);
     color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.coffee {
+    width: 25%;
+    height: 25%;
 }
